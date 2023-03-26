@@ -18,7 +18,7 @@
 
 - 👷 <samp>A highly accomplished blockchain and full-stack engineer, I bring a passion for innovation and a proven track record of delivering results. 
 - 🥇 <samp> Committed to continuous learning and professional growth, my experience includes working with multiple programming languages, frameworks, libraries, and platforms, with a focus on backend development. 
-
+- 🥇 <samp>In recent years, I have honed my expertise in blockchain technology, specializing in Solidity, Web3, Ether, and Cosmos SDK. Enthusiastic about joining forward-thinking DeFi, NFT mint, NFT marketplace, and DApp firms, I leverage my experience and knowledge to drive project success.  
 - ⚡ <samp>Currently, I am further developing my skills in Golang and Cosmos SDK.
 </div>
 
