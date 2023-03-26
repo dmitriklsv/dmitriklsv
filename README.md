@@ -32,7 +32,7 @@
 - 👷 <samp>Blockchain developer @<a href="https://wall.app/">Wall.app</a><br>
 - 👷 <samp>Smart contract developer/tester/auditor @<a href="https://quillhash.com">Quillhash</a><br>
 - 👷 <samp>Backend developer (Express, Ruby on Rails, Golang, Django)<br>
-  
+</div>  
 <br><br>
 
 
